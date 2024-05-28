@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "371695947255",
+    "project_id": "yesbroker-app",
+    "storage_bucket": "yesbroker-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371695947255:android:d2a98527cd37e865bef2f2",
+        "android_client_info": {
+          "package_name": "com.example.log_in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371695947255-4f115j251r6s852cpt3pk8pikn4bn6s1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.log_in",
+            "certificate_hash": "a3e6177335f4f460b644f383220702d026e63efc"
+          }
+        },
+        {
+          "client_id": "371695947255-0u9ls0l1kdj6fsj57l2j584jqrp27h2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYoFI5QBIvtINqkPYC87Hmkp5cvvettRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371695947255-0u9ls0l1kdj6fsj57l2j584jqrp27h2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
